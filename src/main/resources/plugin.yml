@@ -1,0 +1,6 @@
+name: AutoOp
+version: 1.0
+main: com.example.autoop.AutoOp
+api-version: 1.26
+author: CrownDrip530
+description: Auto-OPs the server owner on join.
